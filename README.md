@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0juooaOUnf2B60hlUn4H-ncZ9rtTN5-GTOqcmTIOJA&s)
+![MasterHead](https://camo.githubusercontent.com/1675f97b8a4a6f4dd8a1058034cb61e3311dc5f95cee0a3d10c41a9347716696/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3536623131616131323234383265663130643734663232392f313535353335323736313739322d4d55324a383547364b434b32393337465850364f2f486f6d65706167652b42616e6e65722b412e6769663f666f726d61743d3235303077)
 <h1 align="center">Hi 👋, I'm dadmehrmehr</h1>
 <h3 align="center">A passionate frontend developer from Iran, I'm fourteen and I love programming and learning</h3>
 
