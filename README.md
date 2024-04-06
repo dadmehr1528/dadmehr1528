@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0juooaOUnf2B60hlUn4H-ncZ9rtTN5-GTOqcmTIOJA&s)
 <h1 align="center">Hi 👋, I'm dadmehrmehr</h1>
 <h3 align="center">A passionate frontend developer from Iran, I'm fourteen and I love programming and learning</h3>
 
